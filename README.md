@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Banner Medicina Veterinária" />
+  <img src="https://utfs.io/f/LHbyWnn8DdVPAnQPhWsaBlNJLMwyfgx6q0149QGtRbDIc2ZX" alt="Banner Medicina Veterinária" />
 </p>
 
 # Acervo de Medicina Veterinária
