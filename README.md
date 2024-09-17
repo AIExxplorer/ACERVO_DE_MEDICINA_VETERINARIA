@@ -14,9 +14,18 @@ Acreditamos que o conhecimento deve ser acessível para todos aqueles que buscam
 
 ## 🐾 Uma Homenagem Especial
 
-Este repositório é dedicado à minha querida **Lolla**, que trouxe alegria, amor e companheirismo à minha vida. Lolla nos deixou em 2023, mas seu espírito e as memórias de nosso tempo juntos permanecem vivos. Este acervo é, em parte, uma homenagem a ela, que me ensinou o valor da vida animal e a importância de cuidar daqueles que não podem falar por si mesmos. 
-
-Que este trabalho ajude outros a cuidar e proteger aqueles que, como Lolla, nos dão tanto amor incondicional. 🐶💖
+<table>
+  <tr>
+    <td>
+      Este repositório é dedicado à minha querida Lolla que trouxe alegria, amor e companheirismo à minha vida. Lolla nos deixou em 2023, mas seu espírito e as memórias de nosso tempo juntos permanecem vivos. Este acervo é, em parte, uma homenagem a ela, que me ensinou o valor da vida animal e a importância de cuidar daqueles que não podem falar por si mesmos.
+      <br><br>
+      Que este trabalho ajude outros a cuidar e proteger aqueles que, como Lolla, nos dão tanto amor incondicional. 🐶💖
+    </td>
+    <td align="center">
+      <img src="https://utfs.io/f/LHbyWnn8DdVPKohpJZ0TP5xrERL2Fq1gpvDtYsB4GUfSl9ai" alt="Lolla" width="1000px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
