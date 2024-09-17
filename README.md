@@ -6,9 +6,17 @@
 
 **Educação, cuidado e proteção ao alcance de todos, valorizando vidas e promovendo saúde para animais e humanos.**
 
-A saúde dos animais é tão importante quanto a dos seres humanos. Aprender, crescer e compartilhar esse conhecimento ajuda a salvar vidas e a melhorar a qualidade de vida em nossa sociedade. O **Acervo de Medicina Veterinária** disponibiliza uma vasta coleção de livros e materiais acadêmicos em formato PDF, abrangendo uma ampla gama de temas relacionados à saúde e bem-estar animal. 
+A saúde dos animais é tão importante quanto a dos seres humanos. Aprender, crescer e compartilhar esse conhecimento ajuda a salvar vidas e a melhorar a qualidade de vida em nossa sociedade. O **Acervo de Medicina Veterinária** disponibiliza uma vasta coleção de livros e materiais acadêmicos em formato PDF, abrangendo uma ampla gama de temas relacionados à saúde e bem-estar animal.
 
 Acreditamos que o conhecimento deve ser acessível para todos aqueles que buscam contribuir com o bem-estar animal, seja através de seus estudos, prática clínica ou cuidados em casa. Este acervo é uma ferramenta essencial para capacitar profissionais e futuros veterinários, bem como qualquer pessoa que tenha um profundo respeito e amor pelos animais.
+
+---
+
+## 🐾 Uma Homenagem Especial
+
+Este repositório é dedicado à minha querida **Lolla**, que trouxe alegria, amor e companheirismo à minha vida. Lolla nos deixou em 2023, mas seu espírito e as memórias de nosso tempo juntos permanecem vivos. Este acervo é, em parte, uma homenagem a ela, que me ensinou o valor da vida animal e a importância de cuidar daqueles que não podem falar por si mesmos. 
+
+Que este trabalho ajude outros a cuidar e proteger aqueles que, como Lolla, nos dão tanto amor incondicional. 🐶💖
 
 ---
 
