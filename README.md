@@ -32,6 +32,10 @@ Se puder, adquira os livros para apoiar os autores e promover a produção de ma
 
 ---
 
+## 👉🏼 Acesse o Acervo: [ACESSAR](https://github.com/AIExxplorer/ACERVO_DE_MEDICINA_VETERINARIA/tree/main/Medicina%20Veterin%C3%A1ria)
+
+---
+
 ## ⭐️ Gostou deste repositório?
 
 Se este repositório foi útil para você, considere dar uma ⭐️. Isso ajuda a motivar e apoiar o trabalho contínuo.
