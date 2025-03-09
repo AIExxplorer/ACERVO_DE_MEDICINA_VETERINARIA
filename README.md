@@ -1,3 +1,6 @@
+[![Status do Projeto](https://img.shields.io/badge/Status-Constantemente%20Atualizado-purple.svg)](#)
+
+
 <p align="center">
   <img src="https://utfs.io/f/LHbyWnn8DdVPAnQPhWsaBlNJLMwyfgx6q0149QGtRbDIc2ZX" alt="Banner Medicina Veterinária" />
 </p>
